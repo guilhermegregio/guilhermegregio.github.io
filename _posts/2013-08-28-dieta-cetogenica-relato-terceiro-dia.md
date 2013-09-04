@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Relato da Dieta Cetogênica - Segundo Dia!"
+title:  "Relato da Dieta Cetogênica - Terceiro Dia!"
 date:   2013-08-28 21:59
 categories: dieta saude
 ---

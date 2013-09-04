@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Relato da Dieta Cetogênica - Quarto Dia!"
-date:   2013-08-29 22:35
+title:  "Relato da Dieta Cetogênica - Nono Dia!"
+date:   2013-09-03 23:03
 categories: dieta saude
 ---
 
-Quarto dia de dieta acordei bem, sem dor de cabeça nem nada, e segui com a dieta normalmente.
+Nono dia de dieta acordei bem, sem dor de cabeça nem nada, e segui com a dieta normalmente.
 
 ## Refeições
 
@@ -44,13 +44,15 @@ Um copo de 200ml de aqui a cada hora
 
 ## Relato do dia
 
-	Novamente não senti fome durante o dia, no treino foi muito melhor consegui por mais gas não tive nenhuma fraqueza dor nada.
+	Novamente não senti fome durante o dia, no treino foi exelente pois estou começando a ganhar condicionamento fisico novamente fiz 2:30 de treino ouxado do começo ao fim, não tive nenhum efeito colateral no pós treino :)
 
 ## Treino
 
-	Aula de kung fu
-	Mais 30 minutos de treino com Lien Tien Kuan.
+	Aula de kung fu resgando na velocidade e força
+	Serie de exercicios
+	Serie de Abdominal
+	Aerobicos
 
 ## Pesagem
 
-	Peso: 96 Kg
+	Peso: 95 Kg

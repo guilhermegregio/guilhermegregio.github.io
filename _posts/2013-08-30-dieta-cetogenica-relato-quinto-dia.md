@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Relato da Dieta Cetogênica - Quarto Dia!"
-date:   2013-08-29 22:35
+title:  "Relato da Dieta Cetogênica - Quinto Dia!"
+date:   2013-08-30 22:35
 categories: dieta saude
 ---
 
-Quarto dia de dieta acordei bem, sem dor de cabeça nem nada, e segui com a dieta normalmente.
+Quinto dia de dieta acordei bem, sem dor de cabeça nem nada, e segui com a dieta normalmente.
 
 ## Refeições
 
@@ -44,12 +44,11 @@ Um copo de 200ml de aqui a cada hora
 
 ## Relato do dia
 
-	Novamente não senti fome durante o dia, no treino foi muito melhor consegui por mais gas não tive nenhuma fraqueza dor nada.
+	Dia totalmente tranquilo sem fome nem nenhum tipo de dor ou fraqueza.
 
 ## Treino
 
-	Aula de kung fu
-	Mais 30 minutos de treino com Lien Tien Kuan.
+	Descanso
 
 ## Pesagem
 
